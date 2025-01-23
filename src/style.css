@@ -136,3 +136,14 @@ b {
   color: #f7a70c;
   text-decoration: none;
 }
+
+.blog-titulopost {
+  font-size: 24px;
+  font-weight: 600;
+  text-decoration: none;
+  color: #404040;
+}
+
+.blog-paragrafopost {
+  font-size: 17px;
+}
